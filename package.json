@@ -2,17 +2,15 @@
   "name": "test",
   "version": "1.0.0",
   "description": "",
-  "main": "calculator.js",
+  "main": "Coverter.js",
   "dependencies": {
     "jest": "^24.9.0"
-    
   },
   "devDependencies": {},
   "scripts": {
-    "test": "jest && codecov"
+    "test": "jest"
   },
   "author": "",
   "license": "ISC"
-  
 }
 
