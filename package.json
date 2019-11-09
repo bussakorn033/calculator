@@ -4,6 +4,7 @@
   "description": "",
   "main": "Coverter.js",
   "dependencies": {
+    "@sentry/node": "^5.7.1",
     "jest": "^24.9.0"
   },
   "devDependencies": {},
@@ -13,4 +14,3 @@
   "author": "",
   "license": "ISC"
 }
-
