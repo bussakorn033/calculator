@@ -13,5 +13,9 @@
     "test": "jest && codecov"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "jest": {
+    "coverageDirectory": "./coverage/",
+    "collectCoverage": true
+  }
 }
